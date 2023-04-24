@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: ddep
 github_username: ddep
 minimal_mistakes_skin: dirt
+theme: dirt
 search: true
 
 # SEO friendly settings
