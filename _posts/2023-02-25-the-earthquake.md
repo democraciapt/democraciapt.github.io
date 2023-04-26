@@ -1,18 +1,26 @@
 ---
-title: "The earthquake."
-date: 2023-02-25T00:00:00-00:00
+# Cabeça
+title: "The Earthquake"
 author: nada-elmajri
+date: 2023-02-25T00:00:00-00:00
+excerpt:
+
+# Categorias
 categories:
-  - 18e
-  - EN
-  - Lá fora
+  - 18e          # Edição
+  - EN           # Língua
+  - Lá fora      # Secção
+
+# Assuntos
 tags:
   - Turquia
   - Desastres naturais
+
+# Design
 header:
-  image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/2023_Turkey_Earthquake_Damage.jpg"
-  caption: "Fotografia: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2023_Turkey_Earthquake_Damage.jpg)"
-  teaser: "https://media.npr.org/assets/img/2022/11/04/gettyimages-1183414292-1-_slide-edff8c3fe6afcab5c6457e3c7bd011f5c1745161.jpg"
+  image          : "https://upload.wikimedia.org/wikipedia/commons/e/ef/2023_Turkey_Earthquake_Damage.jpg"
+  teaser         : "https://upload.wikimedia.org/wikipedia/commons/e/ef/2023_Turkey_Earthquake_Damage.jpg"
+  caption        : "Fotografia: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2023_Turkey_Earthquake_Damage.jpg)"
 ---
 
 On the 6th of February, the Kahramanmaras earthquake catastrophically hit southern and central Türkiye, as well as northern and western Syria. It occurred at 04:17 in a coastal town called Gaziantep with a 7.8 on the Richter scale, and with a second 7.7 earthquake occurring only nine hours later. Since then, the earthquake has been followed by more than 2100 aftershocks, causing extensive infrastructural damage and, as of February 24th, over 50,000 deaths in Türkiye, and around 7000 deaths in Syria.

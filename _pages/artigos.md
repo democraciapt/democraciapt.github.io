@@ -6,6 +6,7 @@ excerpt: >-
   Podes ler todos os artigos do *DDEP* aqui de forma gratúita e acessível.
 author_profile: true
 entries_layout: grid
+classes: wide
 header:
   overlay_image: /assets/images/jornal.jpg
   overlay_filter: 0.5
