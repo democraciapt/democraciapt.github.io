@@ -1,9 +1,11 @@
 ---
-title: "Erro 404"
-excerpt: "Página não encontrada. O que procuras pode estar noutra página."
-sitemap: false
-author_profile: false
-permalink: /404.html
+layout: home
+title: Artigos
+permalink: /artigos/
+excerpt: >-
+  Podes ler todos os artigos do *DDEP* aqui de forma gratúita e acessível.
+author_profile: true
+entries_layout: grid
 header:
   overlay_image: /assets/images/404.jpg
   caption: "Fotografia: **[Sarah Kilian](https://unsplash.com/photos/52jRtc2S_VE)**"
@@ -11,5 +13,3 @@ header:
     - label: "Voltar à página inicial"
       url: "/"
 ---
-
-Pedimos desculpa pelo incómodo.

@@ -1,5 +1,6 @@
 ---
 title: "Post: Modified Date"
+author: ana
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - Blog
@@ -7,6 +8,12 @@ tags:
   - Post Formats
   - readability
   - standard
+header:
+  overlay_image: /assets/images/404.jpg
+  caption: "Fotografia: **[Sarah Kilian](https://unsplash.com/photos/52jRtc2S_VE)**"
+  actions:
+    - label: "Voltar à página inicial"
+      url: "/"
 ---
 
 This post has been updated and should show a modified date if used in a layout.

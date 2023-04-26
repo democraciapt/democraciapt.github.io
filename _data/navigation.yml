@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Artigos"
+    url: /artigos/
+  - title: "Edições"
+    url: /edicoes/
+  - title: "Doações"
+    url: /doar/
+  - title: "Junta-te"
+    url: /junta-te/
+  - title: "Contactos"
+    url: /contactos/
+  - title: "Categorias"
+    url: /categorias/
+  - title: "Assuntos"
+    url: /assuntos/
+  - title: "Sobre"
+    url: /sobre/

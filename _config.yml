@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: ddep
 github_username: ddep
 minimal_mistakes_skin: dirt
-theme: dirt
 search: true
+locale: "pt-PT"
 
 # SEO friendly settings
 title_separator: "|"
@@ -65,19 +65,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Da Democracia em Portugal"
+  avatar : "/assets/images/logo.jpg"
+  bio    : "A revista dos alunos e alumni do Instituto de Estudos Políticos. A escrever pela liberdade desde 2021."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://democraciapt.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"

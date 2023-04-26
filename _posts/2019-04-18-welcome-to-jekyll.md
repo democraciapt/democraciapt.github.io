@@ -1,11 +1,19 @@
 ---
 title: "Welcome to Jekyll!"
+author: ana
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
   - Jekyll
   - update
+header:
+  teaser: /assets/images/404.jpg
+  overlay_image: /assets/images/404.jpg
+  caption: "Fotografia: **[Sarah Kilian](https://unsplash.com/photos/52jRtc2S_VE)**"
+  actions:
+    - label: "Voltar à página inicial"
+      url: "/"
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
