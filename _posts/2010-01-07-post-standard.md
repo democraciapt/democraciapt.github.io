@@ -1,5 +1,6 @@
 ---
 title: "Post: Standard"
+author: cgull
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

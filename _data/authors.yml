@@ -1,7 +1,7 @@
 jon:
   name        : "Jon Snow"
-  bio         : "Um perito em tudo, mas que não sabe nada."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  bio         : "Um perito em tudo, mas que não sabe nada. Perito em tronos e dragões."
+  avatar      : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatarfiles.alphacoders.com%2F105%2F105161.jpg&f=1&nofb=1&ipt=5dbdf2373fda789959a5de591009d5fed182d7909c75c79e76fc3d647bc681b8&ipo=images"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -16,7 +16,19 @@ jon:
 ana:
   name        : "Ana Nás"
   bio         : "Perita em culinária. Ativista pela fruta na pizza."
-  avatar      : "/assets/images/ananas.jpg"
+  avatar      : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--KqS3upjX--%2Ft_Preview%2Fb_rgb%3A36538b%2Cc_limit%2Cf_auto%2Ch_630%2Cq_90%2Cw_630%2Fv1521222819%2Fproduction%2Fdesigns%2F2479998_0.jpg&f=1&nofb=1&ipt=9c4d5ca3b774462bad315eced668eec3183dd6831d65a430ca4c393000a93aed&ipo=images"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
+
+cgull:
+  name        : "John C. Gull"
+  bio         : "Repórter especialista em assuntos polares. Especialista residente em aves."
+  avatar      : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2FcktsGv382ARuM8fe1BzcuISJmJml9AH-PFKkVeZgLaU.jpg%3Fauto%3Dwebp%26s%3D841dbdf329fb35281e8eb5220edd04f068c0cc26&f=1&nofb=1&ipt=5eefad9f96a92b34a2e6e63db4f5e4a9ce7be8429fdd571a16b8bedc9e46ff24&ipo=images"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

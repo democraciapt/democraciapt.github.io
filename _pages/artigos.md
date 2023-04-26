@@ -7,8 +7,9 @@ excerpt: >-
 author_profile: true
 entries_layout: grid
 header:
-  overlay_image: /assets/images/404.jpg
-  caption: "Fotografia: **[Sarah Kilian](https://unsplash.com/photos/52jRtc2S_VE)**"
+  overlay_image: /assets/images/jornal.jpg
+  overlay_filter: 0.5
+  caption: "Fotografia: [Roman Kraft](https://unsplash.com/photos/_Zua2hyvTBk)"
   actions:
     - label: "Voltar à página inicial"
       url: "/"

@@ -1,10 +1,15 @@
 ---
-title: "Post: Notice"
+title: "Um cerco a Porto Real é realmente má ideia"
+author: jon
 categories:
-  - Blog
+  - Opinião
 tags:
-  - Post Formats
-  - notice
+  - Conflitos
+  - Westeros
+header:
+  teaser: https://i.insider.com/5cd8ea4e93a15265d02d9862?width=700
+  image: https://i.insider.com/5cd8ea4e93a15265d02d9862?width=700
+  caption: "Fotografia: **[Jamie Lannister](https://i.insider.com/5cd8ea4e93a15265d02d9862?width=700)**"
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.

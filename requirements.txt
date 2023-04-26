@@ -1,0 +1,22 @@
+# Nota: apaguem tudo o que vier depois de um "#", inclusive.
+
+link_doar: "" # Link para doações. Patreon? GoFundMe? Paypal? O que usarem.
+link_facebook: "" # Link do Facebook
+link_twitter: "" # Link do twitter
+link_site_escolha: "" # Aqui preciso do que preferem ter como link no formato: "linkpreferido.github.io". Atualmente é "democraciapt.github.io". Dêm várias alternativas, porque pode não existir disponível a vossa primeira escolha.
+email: "email@mailprovider.com" # O vosso email.
+
+# Daqui para a frente podem fazer copy paste deste formato para escreverem os autores.
+primeiro-ultimo:
+  name: "Primeiro Ultimo"
+  bio: "Descrição curta, não ultrapassar 2 frases."
+  avatar: "link" # Opcional, mas agradecia que enviassem um link de imagem em vez das imagens manualmente. P/ exemplo, abrir facebook, abrir foto, carregar com lado direito e copiar link para imagem.
+  social: "link" # Opcional, se o autor quiser. Substituir "social" por "facebook", "twitter", "linkedin", ou outro conforme. Podem fazer vários.
+
+# Detalhes para SEO
+descricao_seo: "Uma descrição simples do que o jornal é, para usar em efeitos de busca em search engines."
+foto_seo: "link" # Estão a ver quando aparece uma foto no twitter ou facebook ao postarem um link? Preciso de uma "standard" que queiram usar. É a vossa imagem principal, mas não é necessariamente o logotipo. Dimensões ideais estilo 16:9 ou 16:10.
+separador_seo: "|" # Isto é o separador que aparece na tab nos browsers. Por exemplo, na página do sobre, atualmente aparece "DDEP | Sobre". Se quiserem, pode ser "DDEP / Sobre" ou outro caracter que preferirem, tipo "-".
+
+# Miscelaneous
+numeracao_edicoes: "arabe" # Atualmente a numeracao de edicoes é árabe, mas se preferirem apresentar em numeração romana, corrijam.
