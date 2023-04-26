@@ -17,8 +17,6 @@ tags:
   - Família
 
 # Design
-classes:
-  - wide
 header:
   image          : "https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_the_mass_grave_at_the_Bon_Secours_Mother_and_Baby_Home%2C_Tuam%2C_Galway.jpg"
   teaser         : "https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_the_mass_grave_at_the_Bon_Secours_Mother_and_Baby_Home%2C_Tuam%2C_Galway.jpg"
