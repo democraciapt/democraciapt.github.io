@@ -94,6 +94,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+collections:
+  edicoes:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -113,6 +118,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _edicoes
+  - scope:
+      path: ""
+      type: edicoes
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
