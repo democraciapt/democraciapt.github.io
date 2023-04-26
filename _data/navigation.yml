@@ -15,3 +15,5 @@ main:
     url: /assuntos/
   - title: "Sobre"
     url: /sobre/
+  - title: "Ficha Técnica"
+    url: /ficha/

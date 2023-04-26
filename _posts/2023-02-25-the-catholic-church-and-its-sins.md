@@ -69,3 +69,21 @@ The children that resulted from sex out of wedlock, were also victims of this ki
 > “I was locked into a dark room for a day, or sometimes two”, “I was never sent to school”, “I used to wet the bed at night, and every morning, the nun would hit me before she grabbed my left ear (...). Doctors told me that my ear suffered permanent damage.”, “[We] were the product of an evil union and being made to suffer for the sins of your parents.”
 
 Interestingly, one survivor voices what many might think of this situation, “I wonder how they could be so cruel to little children in a religious country.” Indeed, why?
+
+---
+
+Even though it’s crucial to understand society’s role in these events, we must also question ‘was it society that conditioned the Church’s attitude, or the other way around?’. This is what the final report of the Mother and Baby Homes Commission of Investigation had to say about the influence of religion on social attitudes:
+
+The Catholic Church did not invent Irish attitudes to prudent marriages or family respectability.
+
+It seems impossible to think that a deeply intertwined country, like Ireland, with the Catholic Church, could escape its prejudices and attitudes concerning these issues. Thus, the Commission's final report came as a disappointment to many, mainly, because it failed to acknowledge the fault that Church and State had in these people’s suffering, concluding “responsibility for that harsh treatment rests mainly with the fathers of their children and their own immediate families.”
+
+Communities trusted the clerical body to help them, but the only answer they had, came in the form of shaming and ostracization. Nuns and priests, the main actors in this tragedy, were representatives of the Church, and they acted in a way that perpetuated harmful ideas such as sexual immorality and social exclusion.
+
+The reality is that the Catholic Church has repeatedly been caught red handed when it comes to its participation in systematic abuse and oppression, whilst upholding a deeply misogynistic culture. The need to maintain a ‘pure’ and unrealistic status quo, alongside its ‘moral authority’, gave way to thousands of children being separated from their mothers and vice versa; conditioning any actions that might have been taken to truly help them. All this while there was no discrimination when it came to ‘fallen women’, disregarding victims of paedophilia, rape and incest.
+
+We also know that this isn’t a particular or unique phenomenon to Ireland, nor is it exclusive to the Catholic Church. But we do know that they were one of the main perpetrators of these events, seeing that most were Church-run homes.
+
+Moreover, the relation between Church and State, and their shared interests, also allowed for legislation against contraception, divorce, and censorship to be put in place. Therefore, we might recognize that the stigma revolving around marriage and sex, were far more brutal than any consequence “moral impurity” could have had.
+
+Thus, when looking at these institutions that undoubtedly ruined entire lives on the assumption that the victims led a ‘sinful’ and condemnable conduct, what can we take from the known sins of the Church?

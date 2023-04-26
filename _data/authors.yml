@@ -17,3 +17,33 @@ joana-fernandes:
   name        : "Joana Fernandes"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+natacha-pernas:
+  name        : "Natacha Pernas"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+eduardo-barroso:
+  name        : "Eduardo Barroso"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+alexandre-gois:
+  name        : "Alexandre Góis"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+joao-dias:
+  name        : "João Dias"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+cristian-bancu:
+  name        : "Cristian Bancu"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+isabella-baltazar:
+  name        : "Isabella Baltazar"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
