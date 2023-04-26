@@ -1,9 +1,19 @@
+diogo-moreira:
+  name        : "Diogo Moreira"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+  
 nada-elmajri:
   name        : "Nada El-Majri"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
 
-diogo-moreira:
-  name        : "Diogo Moreira"
+tiago-coelho:
+  name        : "Tiago Coelho"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+joana-fernandes:
+  name        : "Joana Fernandes"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg

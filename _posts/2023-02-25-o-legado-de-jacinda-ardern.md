@@ -3,7 +3,7 @@
 title: "O Legado de Jacinda Ardern"
 author: diogo-moreira
 date: 2023-02-25T00:00:00-00:00
-excerpt: "Jacinda Ardern abandona o cargo porque, segundo a própria, está esgotada pelo esforço físico e mental de ser chefe de governo e ao mesmo tempo tentar manter um equilíbrio entre esse dever e a sua família."
+excerpt:
 
 # Categorias
 categories:
