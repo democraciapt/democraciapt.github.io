@@ -47,3 +47,8 @@ isabella-baltazar:
   name        : "Isabella Baltazar"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+emma-varone:
+  name        : "Emma Varone"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
