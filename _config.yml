@@ -98,6 +98,9 @@ collections:
   edicoes:
     output: true
     permalink: /:collection/:path/
+  seccoes:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -129,6 +132,18 @@ defaults:
       entries_layout: grid
       author_profile: false
       share: true
+  # _seccoes
+  - scope:
+      path: ""
+      type: seccoes
+    values:
+      layout: category
+      classes: wide
+      entries_layout: grid
+      author_profile: false
+      share: true
+      sidebar:
+        nav: "seccoes"
 
 category_archive:
   type: liquid

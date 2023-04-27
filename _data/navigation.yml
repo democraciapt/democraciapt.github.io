@@ -9,11 +9,30 @@ main:
     url: /junta-te/
   - title: "Contactos"
     url: /contactos/
-  - title: "Categorias"
-    url: /categorias/
+  - title: "Secções"
+    url: /seccoes/
   - title: "Assuntos"
     url: /assuntos/
   - title: "Sobre"
     url: /sobre/
   - title: "Ficha Técnica"
     url: /ficha/
+
+seccoes:
+  - title: "Secções"
+    url: /seccoes/
+    children:
+    - title: "Lá fora"
+      url: /seccoes/la-fora/
+    - title: "Cá dentro"
+      url: /seccoes/ca-dentro/
+    - title: "A meu ver"
+      url: /seccoes/a-meu-ver/
+    - title: "(Cria)tividade"
+      url: /seccoes/criatividade/
+    - title: "(Há) conversa"
+      url: /seccoes/ha-conversa/
+    - title: "Sugestões culturais"
+      url: /seccoes/sugestoes-culturais/
+    - title: "Núcleo musical"
+      url: /seccoes/nucleo-musical/
