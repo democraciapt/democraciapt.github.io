@@ -3,18 +3,18 @@ main:
     url: /artigos/
   - title: "Edições"
     url: /edicoes/
-  - title: "Doações"
-    url: /doar/
-  - title: "Junta-te"
-    url: /junta-te/
-  - title: "Contactos"
-    url: /contactos/
   - title: "Secções"
     url: /seccoes/
   - title: "Assuntos"
     url: /assuntos/
+  - title: "Doar"
+    url: /doar/
+  - title: "Contactos"
+    url: /contactos/
   - title: "Sobre"
     url: /sobre/
+  - title: "Junta-te"
+    url: /junta-te/
   - title: "Ficha Técnica"
     url: /ficha/
 
