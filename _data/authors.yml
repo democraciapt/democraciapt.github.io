@@ -52,3 +52,33 @@ emma-varone:
   name        : "Emma Varone"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+rafael-neves:
+  name        : "Rafael Ribeiro Neves"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+matilde-barata:
+  name        : "Matilde Barata"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+xavi-ramos:
+  name        : "Xavi Ramos"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+debora-simao:
+  name        : "Débora Simão"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+cebola-curto:
+  name        : "António Cebola e Maria Salomé Curto"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+martim-dinis:
+  name        : "Martim Dinis"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
