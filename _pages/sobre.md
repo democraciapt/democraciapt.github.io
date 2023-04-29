@@ -5,6 +5,8 @@ header:
   image: assets/images/banner.jpg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+A “Da Democracia em Portugal”, fundada em Janeiro de 2021, é uma revista digital independente constituída por alunos e alumni do Instituto de Estudos Políticos da Universidade Católica Portuguesa. Preza-se pelo seu apreço à Democracia e à Liberdade, criando um espaço de livre expressão política e cultural no seio universitário, para que as vozes dos jovens possam ser ouvidas.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Os tópicos abordados vão da política nacional às relações internacionais, sendo explorados tanto em artigos de carácter noticioso como de opinião, mas também através de entrevistas, debates e discussões. Como dito anteriormente, não nos limitamos à política, dando asas à liberdade criativa dos nossos redatores no espaço criatividade e explorando a área da cultura pelo mundo fora.
+
+Regemo-nos pela integridade, vericidade, liberdade e democracia, valores que nos definem tanto na escrita como no nosso próprio funcionamento como instituição.
