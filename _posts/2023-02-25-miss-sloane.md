@@ -10,6 +10,7 @@ categories:
   - 18e          # Edição
   - PT           # Língua
   - (Cria)tividade    # Secção
+  - Sugestões culturais
 
 # Assuntos
 tags:

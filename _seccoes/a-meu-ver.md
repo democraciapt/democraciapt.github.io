@@ -10,5 +10,3 @@ header:
   overlay_filter : 0.5
   caption        : "Fotografia: [Valentin Balan](https://unsplash.com/photos/XIoCqNAjYIw)"
 ---
-
----

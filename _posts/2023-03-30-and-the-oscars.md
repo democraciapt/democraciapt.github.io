@@ -17,9 +17,9 @@ tags:
 
 # Design
 header:
-  image          : "https://images.unsplash.com/photo-1663938591290-160bca65c9a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80"
-  teaser         : "https://images.unsplash.com/photo-1663938591290-160bca65c9a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80"
-  caption        : "Fotografia: [Matej Pribanic, via Unsplash](https://unsplash.com/photos/3iG0c3jENDw)"
+  image          : "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg"
+  teaser         : "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg"
+  caption        : "Fotografia: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg)"
 
 ---
 

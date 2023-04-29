@@ -10,6 +10,7 @@ categories:
   - 19e          # Edição
   - PT           # Língua
   - Sugestões culturais      # Secção
+  - Núcleo musical
 
 # Assuntos
 tags:

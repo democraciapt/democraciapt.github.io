@@ -14,7 +14,8 @@ categories:
 # Assuntos
 tags:
   - Espionagem
-  - Relações Internacionais
+  - China
+  - Estados Unidos
 
 # Design
 header:

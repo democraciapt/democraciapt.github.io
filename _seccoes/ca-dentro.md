@@ -10,5 +10,3 @@ header:
   overlay_filter : 0.5
   caption        : "Fotografia: [Alice Butenko](https://unsplash.com/photos/RIgxEe1HjeY)"
 ---
-
----
