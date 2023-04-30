@@ -13,7 +13,7 @@ header:
   actions:
     - label: "Sabe mais..."
       url: "/sobre/"
-feature_row:
+fr1:
   - image_path: /assets/images/jornal.jpg
     image_caption: "[Roman Kraft](https://unsplash.com/photos/_Zua2hyvTBk)"
     title: "Artigos"
@@ -35,5 +35,23 @@ feature_row:
     url: "/contactos/"
     btn_label: "Contacta-nos..."
     btn_class: "btn--primary"
+
+fr2:
+  - image_path: /assets/images/edicoes.jpg
+    image_caption: "[Jonas Jacobsson](https://unsplash.com/photos/0FRJ2SCuY4k)"
+    title: "Edições"
+    excerpt: "Acede a todas as nossas edições. Escrevemos pela liberdade desde 2021, e temos muito para te mostrar!"
+    url: "/artigos/"
+    btn_label: "Ler mais..."
+    btn_class: "btn--primary"
+  - image_path: /assets/images/donate.jpg
+    image_caption: "[Clay Banks](https://unsplash.com/photos/LjqARJaJotc)"
+    title: "Financiamento"
+    excerpt: "A nossa revista não tem fins lucrativos, mas sem a tua ajuda não seria possível fazer chegar os nossos artigos a todos os leitores. Agradecemos todo o teu apoio!"
+    url: "/doar/"
+    btn_label: "Ajuda-nos..."
+    btn_class: "btn--primary"
 ---
-{% include feature_row %}
+{% include feature_row id="fr1" %}
+
+{% include feature_row id="fr2" type="left" %}
