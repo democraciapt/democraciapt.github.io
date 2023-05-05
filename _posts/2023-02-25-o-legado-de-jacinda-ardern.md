@@ -13,7 +13,7 @@ categories:
 
 # Assuntos
 tags:
-  - Nova Zelândia
+  - Nova Zelândia 🇳🇿
   - Política
 
 # Design

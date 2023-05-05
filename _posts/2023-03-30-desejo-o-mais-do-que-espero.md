@@ -14,7 +14,7 @@ categories:
 # Assuntos
 tags:
   - Governo
-  - Portugal
+  - Portugal 🇵🇹
   - Eleições
 
 # Design

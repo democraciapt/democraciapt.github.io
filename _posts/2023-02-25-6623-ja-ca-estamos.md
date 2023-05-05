@@ -13,7 +13,7 @@ categories:
 
 # Assuntos
 tags:
-  - Reino Unido
+  - Reino Unido 🇬🇧
   - Brexit
 
 # Design

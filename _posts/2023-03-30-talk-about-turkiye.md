@@ -13,7 +13,7 @@ categories:
 
 # Assuntos
 tags:
-  - Turquia
+  - Turquia 🇹🇷
   - Médio Oriente
   - Eleições
 

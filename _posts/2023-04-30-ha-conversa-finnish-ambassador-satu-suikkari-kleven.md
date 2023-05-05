@@ -14,7 +14,7 @@ categories:
 # Assuntos
 tags:
   - Entrevista
-  - Finlândia
+  - Finlândia 🇫🇮
   - NATO
 
 # Design

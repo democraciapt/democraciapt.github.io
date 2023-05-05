@@ -14,8 +14,8 @@ categories:
 # Assuntos
 tags:
   - Governo
-  - Portugal
-  - Eleições
+  - Portugal 🇵🇹
+  - Partidos
 
 # Design
 header:

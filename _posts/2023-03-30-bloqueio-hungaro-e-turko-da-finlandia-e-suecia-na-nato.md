@@ -13,11 +13,11 @@ categories:
 
 # Assuntos
 tags:
-  - Suécia
-  - Finlândia
+  - Suécia 🇸🇪
+  - Finlândia 🇫🇮
   - NATO
-  - Hungria
-  - Turquia
+  - Hungria 🇭🇺
+  - Turquia 🇹🇷
 
 # Design
 header:

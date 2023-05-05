@@ -14,7 +14,7 @@ categories:
 # Assuntos
 tags:
   - Entrevista
-  - Portugal
+  - Portugal 🇵🇹
   - 25 de Abril
 
 # Design

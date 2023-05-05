@@ -14,8 +14,8 @@ categories:
 # Assuntos
 tags:
   - Espionagem
-  - China
-  - Estados Unidos
+  - China 🇨🇳
+  - Estados Unidos 🇺🇸
 
 # Design
 header:

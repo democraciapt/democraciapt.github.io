@@ -13,7 +13,7 @@ categories:
 
 # Assuntos
 tags:
-  - Estados Unidos
+  - Estados Unidos 🇺🇸
   - Joe Biden
   - Casa Branca
 

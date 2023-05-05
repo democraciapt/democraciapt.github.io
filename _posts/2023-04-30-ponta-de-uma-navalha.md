@@ -13,9 +13,9 @@ categories:
 
 # Assuntos
 tags:
-  - Portugal
+  - Portugal 🇵🇹
   - Crime
-  - Islão
+  - Islão ☪️
   - Migração
   - Refugiados
 

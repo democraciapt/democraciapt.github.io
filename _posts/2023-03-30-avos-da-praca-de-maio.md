@@ -13,7 +13,7 @@ categories:
 
 # Assuntos
 tags:
-  - Argentina
+  - Argentina 🇦🇷
   - América Latina
 
 # Design

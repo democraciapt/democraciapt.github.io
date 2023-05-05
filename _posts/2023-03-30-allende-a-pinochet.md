@@ -13,7 +13,7 @@ categories:
 
 # Assuntos
 tags:
-  - Chile
+  - Chile 🇨🇱
   - América Latina
 
 # Design

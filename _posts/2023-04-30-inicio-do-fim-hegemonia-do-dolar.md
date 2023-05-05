@@ -13,8 +13,8 @@ categories:
 
 # Assuntos
 tags:
-  - Estados Unidos
-  - China
+  - Estados Unidos 🇺🇸
+  - China 🇨🇳
   - Finanças
 
 # Design

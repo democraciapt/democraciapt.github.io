@@ -13,9 +13,9 @@ categories:
 
 # Assuntos
 tags:
-  - Israel
-  - Palestina
-  - Islão
+  - Israel 🇮🇱
+  - Palestina 🇵🇸
+  - Islão ☪️
 
 # Design
 header:

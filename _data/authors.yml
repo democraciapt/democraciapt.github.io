@@ -138,3 +138,8 @@ antonio-cebola:
   name        : "António Cebola"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+louisa-cajaty:
+  name        : "Louisa Cajaty"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg

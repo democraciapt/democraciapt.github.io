@@ -13,7 +13,7 @@ categories:
 
 # Assuntos
 tags:
-  - Europa
+  - Europa 🇪🇺
 
 # Design
 header:

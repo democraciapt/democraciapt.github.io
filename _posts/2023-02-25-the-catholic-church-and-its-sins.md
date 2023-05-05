@@ -13,7 +13,7 @@ categories:
 
 # Assuntos
 tags:
-  - Cristianismo
+  - Cristianismo ✝️
   - Família
 
 # Design

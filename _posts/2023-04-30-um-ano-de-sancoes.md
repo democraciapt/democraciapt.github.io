@@ -13,11 +13,11 @@ categories:
 
 # Assuntos
 tags:
-  - Rússia
-  - União Europeia
+  - Rússia 🇷🇺
+  - Europa 🇪🇺
   - Finanças
   - Sanções
-  - Ucrânia
+  - Ucrânia 🇺🇦
   - Guerra
 
 # Design
