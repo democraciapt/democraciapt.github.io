@@ -14,8 +14,8 @@ categories:
 # Assuntos
 tags:
   - Entrevista
-  - Finlândia
-  - NATO
+  - Portugal
+  - 25 de Abril
 
 # Design
 header:
