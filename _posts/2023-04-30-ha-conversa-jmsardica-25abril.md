@@ -8,7 +8,7 @@ excerpt: "Eu nasci em Junho de 1970, por isso não tinha ainda 4 anos aquando do
 # Categorias
 categories:
   - 20e          # Edição
-  - EN           # Língua
+  - PT           # Língua
   - (Há) conversa     # Secção
 
 # Assuntos
