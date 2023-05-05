@@ -133,3 +133,8 @@ sofiya-koval:
   name        : "Sofiya Koval"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+antonio-cebola:
+  name        : "António Cebola"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg

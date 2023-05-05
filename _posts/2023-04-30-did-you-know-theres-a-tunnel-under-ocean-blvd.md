@@ -1,0 +1,45 @@
+---
+# Cabeça
+title: "'Did you know that there's a tunnel under Ocean Blvd', Lana Del Rey"
+author: antonio-cebola
+date: 2023-04-30T00:00:00-00:00
+excerpt:
+tagline: "'Did you know that there’s a tunnel under Ocean Blvd' é o álbum mais pessoal, emotivo e obscuro da carreira de Lana Del Rey que, sem destronar 'Norman F****** Rockwell!', prevalecerá como um dos seus melhores ao culminar todas as suas facetas num só momento."
+
+# Categorias
+categories:
+  - 20e          # Edição
+  - PT           # Língua
+  - Núcleo musical    # Secção
+
+# Assuntos
+tags:
+  - Música
+
+# Design
+header:
+  overlay_image          : https://upload.wikimedia.org/wikipedia/commons/d/d5/Lana_Del_Rey_%40_Grammy_Museum_10_13_2019_%2849311023203%29.jpg
+  overlay_filter : 0.5
+  teaser         : https://upload.wikimedia.org/wikipedia/commons/d/d5/Lana_Del_Rey_%40_Grammy_Museum_10_13_2019_%2849311023203%29.jpg
+  caption        : "Photo: [Justin Higuchi, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lana_Del_Rey_@_Grammy_Museum_10_13_2019_(49311023203).jpg)"
+---
+
+Para os fãs de Lana Del Rey, o dia 7 de dezembro de 2022 foi bastante surpreendente. Sem qualquer aviso prévio, a artista, que já há alguns meses falava vagamente acerca do seu próximo projeto, lançou o single “Did you know that there’s a tunnel under Ocean Blvd”. Simultaneamente, anunciou o álbum homónimo e a data de lançamento: 24 de março de 2023. Durante o período de espera, lançou ainda “A&W” e “The Grants” como singles, apresentando, assim, as peças essenciais para compreender a montagem complexa de momentos que aborda ao longo do álbum.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5HOHne1wzItQlIYmLXLYfZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Para além da curiosidade natural que qualquer fã tem acerca de um projeto que irá ser editado pelo seu artista favorito, eu estava particularmente intrigado com a sua chegada. Em algumas entrevistas dadas o ano passado, Del Rey afirmou que este álbum seria algo diferente a começar pelo facto de as músicas estarem a ser compostas de modo mais espontâneo, com estruturas menos convencionais e, espantosamente, sem espaço para referir cores. Para quem desconhece, a cor é uma característica intrínseca da sua discografia e uma das que mais admiro, por isso, o seu desvanecimento deixava-me inquieto. Por sua vez, e muito por causa dos seus últimos três álbuns, sentia que este projeto nos iria revelar aspetos mais profundos da sua vida. 
+
+O meu pressentimento revelou-se correto ainda antes do dia 24 de março, sobretudo, aquando do lançamento de “The Grants". Esta, que é primeira faixa do álbum, é uma homenagem à sua família, aqueles que ainda estão com ela e aqueles que já partiram mas viverão para sempre na sua memória. Aliás, memórias são, de acordo com ela, a única coisa que preservamos, portanto, há-de se fazer o mais que se pode delas. Curiosamente, para além do tema basilar da família, esta faixa começa com um erro, mais concretamente, um erro provocado pelas cantoras gospel que a auxiliam na parte final da canção, enquanto estão a aprender a letra. Esse momento é, para mim, um dos mais importantes de todo o álbum, conectando-se com um outro tema abordado mais à frente: a imperfeição e o erro enriquecem a experiência humana.
+
+“The Grants” e “Did you know that there’s a tunnel under Ocean Blvd” podem juntar-se aos clássicos da sua carreira: são duas baladas em piano, durante as quais a sua voz toma o centro do palco, sendo que, em ambas, se verifica a novidade da adição de um coro gospel que as eleva à condição perfeita para serem cantadas ao vivo. Interessantemente, e daí a importância fundamental dos três singles, os sete minutos e treze segundos de “A&W” são uma mudança inesperada que nos leva numa viagem instrumental dividida em duas partes. Na primeira, através de suspiros e sussurros, Del Rey mostra-se irritada mas, possivelmente, conformada com a objetificação do seu corpo e a descredibilidade das suas ideias, vivendo, por isso, como uma “American w\*\*\*\*”, na qual é invisível e dispensável; já na segunda, parece que entramos na experiência sonora dessa vivência: acelerada, caótica e ligeiramente confusa. Veja-se que, nesta parte, Lana interpela “Shimmy Shimmy KO KO Bop” (1959) de Little Anthony & The Imperials e os violinos de “Norman f\*\*\*\*\*\* Rockwell” (2019) e, ainda, parece reencarnar a persona do álbum “Born To Die” (2012).
+
+Aquele pressentimento que referi anteriormente, foi também incentivado por um verso em "A & W": “I haven’t seen my mother in a long, long time”. Lentamente, ao longo da sua carreira, Del Rey tem vindo a demonstrar que a relação com a sua mãe é praticamente inexistente. Mais uma vez, com este álbum, adicionou informação acerca da natureza conflituosa desta relação, nomeadamente, em “Fingertips”. Destaco, desde já, que esta é, provavelmente, a música mais emotiva e pessoal da sua discografia inteira, parecendo que estamos a ouvir diretamente uma entrada de um dos seus diários. Portanto, devido à complexidade das letras e por uma questão de logística deste texto, realço apenas passagens como “exotic places and people don't take the place of being your child” e “what kind of mother was she to say I'd end up in institutions?”, nem sendo sequer possível ouvir claramente a palavra “mother”…
+
+Apesar de toda a obscuridade deste projeto, há uma grande sensação de esperança, introduzida pelos conceitos de luz e perseverança. O maior exemplo desta temática encontra-se na faixa “Kintsugi”, note-se, a arte japonesa de reparar porcelanas partidas com ouro que filosoficamente aceita as fendas e fissuras como algo que eleva o todo. Na música, Lana Del Rey fala acerca do impacto da morte de entes queridos, em especial de um tio, e do luto que é sentido fisicamente. Com o verso “Daddy, I miss them”, evidencia um certo desespero com essa situação, ao mesmo tempo que deixa transparecer um comportamento quase infantil por não saber como reagir à dor imensa. Contudo, concluiu numa nota positiva, reiterando, com o auxílio de Leonard Cohen, que somente desta maneira “the light gets in” e a pessoa se torna mais forte e mais sábia (“you’re golden”). Veja-se que também em “Fingertips”, a faixa que se segue, estas memórias são exploradas.
+
+Ainda em “Kintsugi”, a única temática que, na minha opinião, nenhum dos três singles apresentou é ligeiramente discutida: a autenticidade. No caso, com o verso “just another folk song but anyway”, Lana parece apontar o dedo aos críticos e, sobretudo, aos fãs que têm reprovado a sonoridade em que se tem aventurado nos últimos dois álbuns, mesmo sendo esses projetos mais crus. Ademais, esta chamada de atenção torna-se, para mim, mais clara em “Fishtail”, onde “you wanted me sadder” pode ser interpretado como uma rejeição por parte dos fãs ao crescimento pessoal da artista, o qual a permitiu de deixar de ver tudo de forma tão triste e obscura. Por sua vez, em “Grandfather please stand on the shoulders of my father while he’s deep-sea fishing”, aborda, focando-se mais nos críticos, os juízos negativos em relação à sua autenticidade como artista e pessoa. Note-se, desde o início da sua carreira e, em especial, com o álbum “Born To Die”, Del Rey tem sido ferozmente acusada de ser um produto da sua gravadora que construiu a sua imagem, história e letras de modo a captar a atenção do público. 
+
+Penso que um dos grandes objetivos de Lana Del Rey com este álbum era, exatamente, esclarecer este ponto da sua carreira: ela é uma mulher em evolução que erra muitas vezes mas que é sempre aquilo que mostra ser. Essa ideia encontra-se presente também em “Judah Smith Interlude”, em que o pastor termina com "I used to think my preaching was mostly about You (…) I’ve discovered my preaching is mostly about me”. Não obstante, na última faixa do álbum, “Taco Truck x VB”, deixa claro que, mais do que qualquer outra coisa, ela tem de estar confiante das suas convicções e certezas porque irão sempre torcer as suas palavras e ações para servir as suas próprias narrativas.
+
+Posto isto, e tal como se previa, “Did you know that there’s a tunnel under Ocean Blvd” é o álbum mais pessoal, emotivo e obscuro da carreira de Lana Del Rey que, sem destronar “Norman F\*\*\*\*\*\* Rockwell!”, prevalecerá como um dos seus melhores ao culminar todas as suas facetas num só momento. Contudo, consegue ter uma relevância temática ímpar na sua discografia, bem como uma intencionalidade nunca antes vista. Portanto, é um projeto, como a própria anunciava, diferente dos seus anteriores mas, simultaneamente, filho deles através de interpolações ou reimaginações como acontece em “Taco Truck x VB”, faixa que encerra o álbum com a suposta versão original de “Venice B\*\*\*\*” (2019). Tudo isto, faz com que Lana Del Rey se imortalize como “the greatest American songwriter of the 21st century” como disse, desta vez, a Rolling Stone UK.
