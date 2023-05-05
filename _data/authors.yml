@@ -143,3 +143,13 @@ louisa-cajaty:
   name        : "Louisa Cajaty"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+maria-seatra:
+  name        : "Maria Seatra"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+tiago-maia:
+  name        : "Tiago Maia"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
