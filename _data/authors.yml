@@ -82,3 +82,21 @@ martim-dinis:
   name        : "Martim Dinis"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+ddep-tf-finamb:
+  name        : "DDEP Task Force"
+  bio         : "Tomás Pires, Nada El-Majri, Tomás Santos, João Dias, Inês Sousa & Cristian Bancu"
+  avatar      : /assets/images/logo.jpg
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dademocraciaemportugal/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dademocraciaep"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/dademocraciaemportugal"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/dademocraciaemportugal"
