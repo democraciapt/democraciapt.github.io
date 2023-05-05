@@ -118,3 +118,13 @@ ddep-tf-sardica:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/dademocraciaemportugal"
+
+hugo-fresta:
+  name        : "Hugo Fresta"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+rui-lopo:
+  name        : "Rui Lopo"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
