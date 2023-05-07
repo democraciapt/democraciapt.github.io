@@ -36,3 +36,12 @@ seccoes:
       url: /seccoes/sugestoes-culturais/
     - title: "Núcleo musical"
       url: /seccoes/nucleo-musical/
+
+seccoes:
+  - title: "Guias"
+    url: /guias/
+    children:
+    - title: "Autores"
+      url: /guias/autores/
+    - title: "Exemplo 1"
+      url: /guias/exemplo1/

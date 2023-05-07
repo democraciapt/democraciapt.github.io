@@ -105,6 +105,9 @@ collections:
   seccoes:
     output: true
     permalink: /:collection/:path/
+  guias:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -148,6 +151,15 @@ defaults:
       share: true
       sidebar:
         nav: "seccoes"
+  # _guias
+  - scope:
+      path: ""
+      type: guias
+    values:
+      layout: single
+      classes:
+      entries_layout:
+      author_profile: false
 
 category_archive:
   type: liquid

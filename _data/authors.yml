@@ -153,3 +153,8 @@ tiago-maia:
   name        : "Tiago Maia"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+jon-snow:
+  name        : "Jon Snow"
+  bio         : "Bastardo de Ned Stark. Especialista em assuntos medievais."
+  avatar      : /assets/images/bio-photo.jpg
