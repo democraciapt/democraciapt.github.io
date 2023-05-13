@@ -19,5 +19,5 @@ header:
       url   : "/edicoes/ed19"
 ---
 
-\* Ainda estamos a transportar a informação das edições **I—XVII** para este site. Apesar dos artigos não estarem disponíveis individualmente no site, **podes mesmo assim abrir a edição que procuras e ler em formato PDF.**
+\* Ainda estamos a transportar a informação das edições **I—XVI** para este site. Apesar dos artigos não estarem disponíveis individualmente no site, **podes mesmo assim abrir a edição que procuras e ler em formato PDF.**
 {: .notice--warning}
