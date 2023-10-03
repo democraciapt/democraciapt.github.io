@@ -160,11 +160,16 @@ jon-snow:
   avatar      : /assets/images/bio-photo.jpg
 
 lucia-arana:
-  name        : "Licía Lópes Arana"
+  name        : "Lucía Lópes Arana"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
 
 debora-simao-diogo-rodrigues:
   name        : "Débora Simão e Diogo Rodrigues"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+  cesar-caldeira:
+  name        : "César Caldeira"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
