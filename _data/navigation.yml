@@ -37,7 +37,7 @@ seccoes:
     - title: "Núcleo musical"
       url: /seccoes/nucleo-musical/
 
-seccoes:
+guias:
   - title: "Guias"
     url: /guias/
     children:
