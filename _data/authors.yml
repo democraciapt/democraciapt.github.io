@@ -154,11 +154,6 @@ tiago-maia:
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
 
-jon-snow:
-  name        : "Jon Snow"
-  bio         : "Bastardo de Ned Stark. Especialista em assuntos medievais."
-  avatar      : /assets/images/bio-photo.jpg
-
 lucia-arana:
   name        : "Lucía Lópes Arana"
   bio         : "Lorem ipsum. Texto temporário"
@@ -169,7 +164,12 @@ debora-simao-diogo-rodrigues:
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
 
-  cesar-caldeira:
+cesar-caldeira:
   name        : "César Caldeira"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+madalena-oliveira:
+  name        : "Madalena Oliveira"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
