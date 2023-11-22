@@ -23,7 +23,7 @@ header:
   caption        : "Photo: [Rotograph Co., Public domain, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/af/Cuba_-_Cane_cart.jpg)"
 ---
 
-> Just how can a small, Caribbean island, underdeveloped by centuries of colonialism and imperialism, and subject to punitive, extraterritorial sanctions by the United States for 60 years, have so much to offer the world?” Helen Yaffe (2020) 
+> Just how can a small, Caribbean island, underdeveloped by centuries of colonialism and imperialism, and subject to punitive, extraterritorial sanctions by the United States for 60 years, have so much to offer the world? Helen Yaffe (2020) 
  
 Há mais de 60 anos que Cuba é um país polémico e muito discutido, quer por políticos, quer por pessoas comuns que têm maneiras distintas de ver o mundo, daí resultarem visões diferentes sobre a pequena nação caribenha. No entanto, há uma narrativa que se mostra predominante sobre a outra, quase como hegemónica, e essa é a narrativa de que Cuba é um país falhado, que consequentemente é a prova de que o socialismo não é fazível e que experiências com o mesmo não são recomendadas. Porém, será que esta narrativa tem algum fundamento? Será apenas propaganda? Ou será algo entre os dois? Bem, é a isso que vou tentar responder ao apresentar a minha pesquisa e opinião sobre o assunto, da forma mais nuançada que conseguir. 
 
