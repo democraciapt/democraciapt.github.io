@@ -2,7 +2,6 @@
 # Cabeça
 title: "Da Imigração Lusófona"
 author: rafael-neves
-date: 2023-10-25T00:00:00-00:00
 excerpt:
 
 # Categorias

@@ -2,7 +2,6 @@
 # Cabeça
 title: "Como a guerra na Ucrânia pode ter levado a um conflito (des)congelado: Nagorno-Karabakh"
 author: diogo-magalhaes
-date: 2023-10-25T00:00:00-00:00
 excerpt:
 
 # Categorias
@@ -13,7 +12,8 @@ categories:
 
 # Assuntos
 tags:
-  - Guerra na Ucrânia 🇺🇦
+  - Ucrânia 🇺🇦
+  - Guerra na Ucrânia
   - Nagorno-Karabakh
   - Arménia 🇦🇲
   - Azerbaijão 🇦🇿

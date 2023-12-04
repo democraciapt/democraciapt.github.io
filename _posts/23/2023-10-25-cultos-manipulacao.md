@@ -15,6 +15,7 @@ categories:
 tags:
   - Religião
   - Cultos
+  - Terrorismo
 
 # Design
 header:

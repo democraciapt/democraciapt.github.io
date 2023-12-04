@@ -14,7 +14,7 @@ categories:
 # Assuntos
 tags:
   - Espanha 🇪🇸
-  - Sanchéz
+  - Eleições
 
 # Design
 header:

@@ -2,7 +2,6 @@
 # Cabeça
 title: "Um país soterrado em destroços e instabilidade política"
 author: ines-dias
-date: 2023-10-25T00:00:00-00:00
 excerpt:
 
 # Categorias
@@ -14,7 +13,7 @@ categories:
 # Assuntos
 tags:
   - Líbia 🇱🇾
-  - Ajuda Humanitária
+  - Humanitarismo
 
 # Design
 header:

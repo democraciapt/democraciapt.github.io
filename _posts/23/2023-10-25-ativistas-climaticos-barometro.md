@@ -1,8 +1,7 @@
 ---
 # Cabeça
-title: "Ativistas climáticos: O barómetro do problema? Em colaboração com Diogo Beirôco Gonçalves"
-author: rui-lopo
-date: 2023-10-25T00:00:00-00:00
+title: "Ativistas climáticos: O barómetro do problema?"
+author: rui-lopo-diogo-goncalves
 excerpt:
 
 # Categorias

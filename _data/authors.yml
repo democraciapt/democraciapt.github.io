@@ -173,3 +173,9 @@ madalena-oliveira:
   name        : "Madalena Oliveira"
   bio         : "Lorem ipsum. Texto temporário"
   avatar      : /assets/images/bio-photo.jpg
+
+rui-lopo-diogo-goncalves:
+  name        : "Rui Lopo"
+  bio         : "Em colaboração com Diogo Beirôco Gonçalves"
+  avatar      : /assets/images/bio-photo.jpg
+

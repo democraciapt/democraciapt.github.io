@@ -12,9 +12,8 @@ categories:
   - A Meu Ver    # Secção
 
 # Assuntos
-tags:
-  - Greenwashing 
-  - Origem Biológica
+tags: 
+  - Clima
 
 # Design
 header:

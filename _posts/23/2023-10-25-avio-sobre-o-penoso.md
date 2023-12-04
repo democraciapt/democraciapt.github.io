@@ -2,7 +2,6 @@
 # Cabeça
 title: "Mais um “avio” sobre o penoso Estado da Nação: a falta de uma liderança transformacional"
 author: tiago-coelho
-date: 2023-10-25T00:00:00-00:00
 excerpt:
 
 # Categorias

@@ -2,7 +2,6 @@
 # Cabeça
 title: "Der Deutschenschrecken (O Terror Alemão)"
 author: diogo-rodrigues
-date: 2023-10-25T00:00:00-00:00
 excerpt:
 
 # Categorias
@@ -14,7 +13,7 @@ categories:
 # Assuntos
 tags:
   - Alemanha 🇩🇪
-  - Hollywood
+  - Cinema
 
 # Design
 header:

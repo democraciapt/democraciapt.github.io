@@ -2,7 +2,6 @@
 # Cabeça
 title: "The GOP strikes back"
 author: carlos-raposo
-date: 2023-10-25T00:00:00-00:00
 excerpt:
 
 # Categorias
@@ -14,7 +13,7 @@ categories:
 # Assuntos
 tags:
   - EUA 🇺🇸
-  - Casa dos Representantes
+  - Parlamentos
 
 # Design
 header:

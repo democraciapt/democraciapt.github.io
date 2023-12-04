@@ -14,7 +14,7 @@ categories:
 # Assuntos
 tags:
   - Portugal 🇵🇹
-  - Crise da Habitação
+  - Habitação
 
 # Design
 header:
