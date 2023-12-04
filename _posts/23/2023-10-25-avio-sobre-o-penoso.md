@@ -17,7 +17,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:Cais_da_Ribeira,_Oporto,_Portugal,_2012-05-09,_DD_21.JPG
+  image          : https://upload.wikimedia.org/wikipedia/commons/d/d6/Cais_da_Ribeira%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_21.JPG
   teaser         : https://upload.wikimedia.org/wikipedia/commons/d/d6/Cais_da_Ribeira%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_21.JPG
   caption        : "Photo: [Diego Delso, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cais_da_Ribeira,_Oporto,_Portugal,_2012-05-09,_DD_21.JPG)"
 ---

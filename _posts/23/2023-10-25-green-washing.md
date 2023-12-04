@@ -17,7 +17,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:Bristol_Airport_Greenwashbusters_(51658592698).jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/b/bc/Bristol_Airport_Greenwashbusters_%2851658592698%29.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/b/bc/Bristol_Airport_Greenwashbusters_%2851658592698%29.jpg
   caption        : "Photo: [Stay Grounded, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bristol_Airport_Greenwashbusters_(51658592698).jpg)"
 ---

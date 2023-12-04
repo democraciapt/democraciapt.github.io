@@ -18,7 +18,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:Canto_da_Corte,_Casas_Novas._06-18.jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/4/46/Canto_da_Corte%2C_Casas_Novas._06-18.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/4/46/Canto_da_Corte%2C_Casas_Novas._06-18.jpg
   caption        : "Photo: [Rúdisicyon, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canto_da_Corte,_Casas_Novas._06-18.jpg)"
 ---

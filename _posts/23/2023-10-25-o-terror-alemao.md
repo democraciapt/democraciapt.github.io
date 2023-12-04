@@ -17,7 +17,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:Mary_Martin_in_The_Sound_of_Music_by_Toni_Frissell.jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/2/27/Mary_Martin_in_The_Sound_of_Music_by_Toni_Frissell.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/2/27/Mary_Martin_in_The_Sound_of_Music_by_Toni_Frissell.jpg
   caption        : "Photo: [United States Library of Congress's Prints and Photographs division, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mary_Martin_in_The_Sound_of_Music_by_Toni_Frissell.jpg)"
 ---

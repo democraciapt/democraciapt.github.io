@@ -18,7 +18,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:Porto_da_Cruz_-_Ilha_da_Madeira_(Portugal)_(33117285).jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/0/02/Porto_da_Cruz_-_Ilha_da_Madeira_%28Portugal%29_%2833117285%29.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/0/02/Porto_da_Cruz_-_Ilha_da_Madeira_%28Portugal%29_%2833117285%29.jpg
   caption        : "Photo: [Vitor Oliveira from Torres Vedras, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Porto_da_Cruz_-_Ilha_da_Madeira_(Portugal)_(33117285).jpg)"
 ---

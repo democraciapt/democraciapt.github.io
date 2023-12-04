@@ -19,7 +19,7 @@ tags:
 
 # Design
 header:
-  image          : https://unsplash.com/photos/three-colorful-stained-glass-windows-in-a-dark-room-gqTceVX5ZOs
+  image          : https://images.unsplash.com/photo-1638707094136-e254bd87ad4a?q=80&w=2852&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   teaser         : https://images.unsplash.com/photo-1638707094136-e254bd87ad4a?q=80&w=2852&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   caption        : "Photo: [Catarina Carvalho, via Unsplash](https://unsplash.com/photos/three-colorful-stained-glass-windows-in-a-dark-room-gqTceVX5ZOs)"
 ---

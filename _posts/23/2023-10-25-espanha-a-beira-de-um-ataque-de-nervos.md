@@ -18,7 +18,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:Pedro_S%C3%A1nchez_P%C3%A9rez-Castej%C3%B3n_(Oficial).jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/8/81/Pedro_S%C3%A1nchez_P%C3%A9rez-Castej%C3%B3n_%28Oficial%29.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/8/81/Pedro_S%C3%A1nchez_P%C3%A9rez-Castej%C3%B3n_%28Oficial%29.jpg
   caption        : "Photo: [Ministry of the Presidency. Government of Spain (Attribution or Attribution), via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pedro_S%C3%A1nchez_P%C3%A9rez-Castej%C3%B3n_(Oficial).jpg)"
 ---

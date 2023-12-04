@@ -18,7 +18,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:Global_Climate_Strike_IMG_0241_(40438403403).jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/7/75/Global_Climate_Strike_IMG_0241_%2840438403403%29.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/7/75/Global_Climate_Strike_IMG_0241_%2840438403403%29.jpg
   caption        : "Photo: [Becker1999 from Grove City, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Global_Climate_Strike_IMG_0241_(40438403403).jpg)"
 ---

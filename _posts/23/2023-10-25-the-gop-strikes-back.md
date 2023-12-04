@@ -17,7 +17,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:US_Capitol_Dome_High_Res_Jan_2006.jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg
   caption        : "Photo: [Diliff, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Capitol_Dome_High_Res_Jan_2006.jpg)"
 ---

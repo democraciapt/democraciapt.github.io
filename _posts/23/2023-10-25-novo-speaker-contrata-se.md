@@ -17,7 +17,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:DC_Washington_Monument_at_night.jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/4/41/DC_Washington_Monument_at_night.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/4/41/DC_Washington_Monument_at_night.jpg
   caption        : "Photo: [Helly Stoyanova, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DC_Washington_Monument_at_night.jpg)"
 ---

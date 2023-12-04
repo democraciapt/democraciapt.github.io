@@ -21,7 +21,7 @@ tags:
 
 # Design
 header:
-  image          : https://commons.wikimedia.org/wiki/File:Sarnaghbyur,_Nagorno_Karabakh_2.jpg
+  image          : https://upload.wikimedia.org/wikipedia/commons/b/be/Sarnaghbyur%2C_Nagorno_Karabakh_2.jpg
   teaser         : https://upload.wikimedia.org/wikipedia/commons/b/be/Sarnaghbyur%2C_Nagorno_Karabakh_2.jpg
   caption        : "Photo: [PoliceMan100, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sarnaghbyur,_Nagorno_Karabakh_2.jpg)"
 ---
