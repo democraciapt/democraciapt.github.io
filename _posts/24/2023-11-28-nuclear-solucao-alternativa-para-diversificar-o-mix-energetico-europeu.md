@@ -16,8 +16,6 @@ header:
   caption:
 ---
 
-# Nuclear: solução alternativa para diversificar o mix energético europeu? 
-
 A União Europeia, através do Objetivo 55 (*Fit for 55*), tem vindo a estabelecer um conjunto de propostas destinadas a rever e atualizar a legislação da União e a criar iniciativas com o objetivo de assegurar que as políticas da UE estejam em consonância com os objetivos climáticos acordados pelo Conselho e pelo Parlamento Europeu.
 
 Segundo dados recolhidos pelo Eurostat em 2022 para a Agência Europeia do Ambiente, 22,47% da energia consumida (valores brutos) na União Europeia teve origem em fontes renováveis e, tendo em conta os avanços e incentivos postos em ação pelos diferentes Estados-membros, é expectável (e bem!) que este valor avance rapidamente. No entanto, estas fontes de energia renovável também trazem alguns desafios várias vezes negligenciados pelos decisores políticos, nomeadamente a segurança energética e o impacto estratégico que a energia traz quando utilizada para fins políticos, sendo o maior exemplo recente a disrupção causada pela invasão da Ucrânia.

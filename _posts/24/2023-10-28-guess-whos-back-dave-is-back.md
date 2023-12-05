@@ -15,8 +15,6 @@ header:
   caption:
 ---
 
-# Guess Who's Back? Dave is Back!
-
 O antigo primeiro-ministro David Cameron está de regresso à selva política – e a sua nomeação, como Secretário dos Negócios Estrangeiros, revela muito sobre o estado do Partido Conservador no poder.
 
 A política britânica não tem tido poucas surpresas nos últimos anos e, para espanto de todos, o atual primeiro-ministro Rishi Sunak nomeou o antigo primeiro-ministro, David Cameron, como Secretário dos Negócios Estrangeiros. Já passaram 7 anos desde que Cameron se demitiu depois de colocar a questão do Brexit num voto popular através do referendo.

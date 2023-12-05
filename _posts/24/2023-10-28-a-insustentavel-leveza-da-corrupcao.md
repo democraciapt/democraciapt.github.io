@@ -17,7 +17,6 @@ header:
   caption:
 ---
 
-# A insustentável leveza da corrupção
 
 O equinócio de outono encetado no fim do mês de setembro trouxe ao país o tempo mais ameno, não obstante, o clima político nacional dos últimos dias colocou os termómetros em níveis de um mês de verão. 
 

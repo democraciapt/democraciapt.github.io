@@ -14,8 +14,6 @@ header:
   caption:
 ---
 
-# Wim Mertens: a cândida harmonia da melodia 
-
 > "Music is the poetry of the air" -  **Jean Paul Richter**
 
 Oscilo as minhas janelas temporais desocupadas entre a leitura e a poesia musical que nos é oferecida pela mestria melódica de compositores como Wim Mertens.

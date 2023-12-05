@@ -14,8 +14,6 @@ teaser:
 caption:
 ---
 
-# *Killers of the Flower Moon*
-
 O filme *Assassinos da Lua das Flores* estreou no dia 19 de Outubro e apanhou a segunda edição da Festa do Cinema de 2023, onde os bilhetes se encontravam a metade do preço e as salas de cinema lotadas como nunca vi. Este drama de crime no faroeste conta com a atuação de Leonardo DiCaprio, Robert De Niro e Lily Gladstone, e é inspirado no livro de David Grann com o mesmo nome.
 
 Nos mais de 200 minutos de filme, a história que nos é dada a conhecer é a da exploração das terras índias da tribo Osage, entre os fins do século XIX e as primeiras décadas do século XX, quando nelas se descobrem grandes reservas de ouro preto, comumente conhecido por petróleo. A abundante posse deste recurso tornou os índios Osage uma das etnias mais ricas à face da terra, *per capita* falando, o que, como não podia deixar de ser, chamou a atenção aos lobos brancos que, uma vez provando do seu sangue, não saciavam a sua fome.

@@ -15,8 +15,6 @@ header:
   caption:
 ---
 
-# Santa Emenda
-
 > A well regulated militia, being necessary to the Security of a free State, the right of people to keep and bear arms, shall not be infringed. — **IIª Emenda à Constituição dos Estados Unidos**
 
 A Segunda Emenda, muitas vezes considerada confusa e antiquada, é uma relíquia do século XVIII que ganhou grande valor entre os conservadores nos anos 80 e recebeu apoio do Supremo Tribunal em 2008. O direito individual à posse de armas, alegadamente protegido pela frase, é para os europeus um dos aspetos mais peculiares da vida americana e que pouco sentido faz nos tempos em que vivemos. Procuro explicar este fenómeno na esperança, talvez em vão, de tornar compreensível para nós esta obsessão estranha por ter arsenais militares em casa e trazer pistolas no bolso para tudo quanto é lado.

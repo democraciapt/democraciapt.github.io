@@ -15,8 +15,6 @@ header:
   caption:
 ---
 
-# Un León en la Casa Rosada
-
 Escrevo este artigo no dia seguinte à saída do resultado das eleições presidenciais entre Sergio Massa y Javier Milei. O povo argentino, entre os 18 e os 65 anos, com obrigatoriedade de voto escolheu como futuro presidente “aquele da motossera”. 
 
 O candidato de La Libertad Avanza obteve 56% dos votos relativamente ao peronista Sergio Massa que ficou além do esperado com apenas 44% dos votos. Esta diferença de 3 milhões de votos foi o que afastou o peronismo da presidência e assegurou o lugar de Milei na Casa Rosada.

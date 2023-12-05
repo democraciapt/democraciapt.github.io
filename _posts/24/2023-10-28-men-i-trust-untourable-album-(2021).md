@@ -14,8 +14,6 @@ header:
   caption:
 ---
 
-# Men I Trust – Untourable Album (2021)
-
 Para mim, novembro sempre foi o mês infeliz em que se espera, ansiosamente, pela chegada do Natal. Começava-se logo a encher de cruzinhas os catálogos que chegavam às minhas pequenas mãos, na esperança de se ter naves LEGO do *Star Wars* ou mais umas figuras de ação do *Spider-Man*. Porém, lá no fundo das páginas, havia sempre a oculta secção dos jogos para as consolas onde a perdição era demasiada para uma criança com uma *Wii*. Eram tempos em que se passavam tardes inteiras a jogar *Mario Kart* e o FIFA da altura, ao mesmo tempo que se sonhava com a surpresa e o milagre que acontecia naquela noite especial.
 
 Hodiernamente, novembro já não tem nada que o aproxime daquela aura, dando, agora, uma enorme sensação de saudade por aqueles tempos. Já não tenho catálogos de brinquedos para escrevinhar, tardes para serem ocupadas por extensas sessões de jogos ou a intensa e ávida crença na personagem do Pai Natal. Cresceu-se e a nostalgia assumiu-se como o fruto proibido para se poder reviver ou tocar suavemente no tão apetecível passado.
