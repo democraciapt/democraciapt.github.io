@@ -14,12 +14,10 @@ header:
   teaser: 
   caption:
 ---
-**
+
 # Santa Emenda
 
-*"A well regulated militia, being necessary to the Security of a free State, the right of people to keep and bear arms, shall not be infringed."*
-
-IIª Emenda à Constituição dos Estados Unidos
+> A well regulated militia, being necessary to the Security of a free State, the right of people to keep and bear arms, shall not be infringed. — **IIª Emenda à Constituição dos Estados Unidos**
 
 A Segunda Emenda, muitas vezes considerada confusa e antiquada, é uma relíquia do século XVIII que ganhou grande valor entre os conservadores nos anos 80 e recebeu apoio do Supremo Tribunal em 2008. O direito individual à posse de armas, alegadamente protegido pela frase, é para os europeus um dos aspetos mais peculiares da vida americana e que pouco sentido faz nos tempos em que vivemos. Procuro explicar este fenómeno na esperança, talvez em vão, de tornar compreensível para nós esta obsessão estranha por ter arsenais militares em casa e trazer pistolas no bolso para tudo quanto é lado.
 
@@ -40,5 +38,3 @@ Essa divisão política dilacerou o país e contribuiu significativamente para a
 Quando a NRA gasta milhões para impedir a proibição da compra de armas por pessoas em listas de observação de terrorismo ou pessoas proibidas de voar; quando muitos estados expandem os locais onde é permitido portar uma arma (incluindo escolas, estádios ou hospitais); quando pessoas com problemas mentais podem comprar armas de fogo em feiras de armas sem passar por qualquer teste, entre outras questões alarmantes, fica claro que a situação é complicada. Soluções de senso comum são frequentemente perdidas no debate degradado a que o Congresso se acostumou, e, como resultado, mais de 100 pessoas continuam a morrer a cada dia nos Estados Unidos devido a armas de fogo.
 
 É inegável que há um problema, mas é importante perceber que esse problema surgiu recentemente e que, com esforço e vontade política, pode ser resolvido tão rapidamente quanto surgiu. Armas e violência não são instituições americanas, mas sim distorções históricas e fenômenos culturais contrários aos valores predominantes.
-
-**

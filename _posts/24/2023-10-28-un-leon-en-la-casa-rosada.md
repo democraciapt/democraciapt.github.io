@@ -14,7 +14,7 @@ header:
   teaser: 
   caption:
 ---
-**
+
 # Un León en la Casa Rosada
 
 Escrevo este artigo no dia seguinte à saída do resultado das eleições presidenciais entre Sergio Massa y Javier Milei. O povo argentino, entre os 18 e os 65 anos, com obrigatoriedade de voto escolheu como futuro presidente “aquele da motossera”. 
@@ -78,5 +78,3 @@ Como não poderia faltar, também enfrentou o Vaticano dizendo que o papa é um 
 Assim, apesar de Milei se propor a deitar abaixo o que até aqui se construiu, recebe em mãos uma grave crise, altos níveis de pobreza, reservas mínimas e pagamentos em atraso ao Fundo Monetário Internacional.
 
 Resta-nos então esperar e acreditar que este novo presidente cumpra aquilo a que se propôs a cumprir, sem no entanto, destruir os argentinos e as argentinas no processo de alcançar os seus objetivos econômicos.
-
-**

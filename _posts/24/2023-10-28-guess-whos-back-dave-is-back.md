@@ -14,13 +14,6 @@ header:
   teaser: 
   caption:
 ---
-**
-
-|  |  |
-| ----- | ----- |
-| Aoaifjsaofjaso | aoifjsaofjaojf |
-
-> 
 
 # Guess Who's Back? Dave is Back!
 
@@ -53,5 +46,3 @@ Portanto, há algo a ganhar para ambos, mas não tenho certeza se a estratégia 
 Esta mudança de governo significa que haverá outro conflito entre a direita e o centro do partido, Suella Braverman tentará causar o máximo de problemas que puder nas bancadas de trás e já tivemos alguns deputados a entregar moções de censura a Rishi Sunak. Poderemos acabar numa situação em que os conservadores estejam a dividir-se em vez de projetarem uma imagem de um governo frio, calmo e competente (que estão a tentar projetar neste momento), pelo que haverá muito a observar nas próximas semanas.
 
 Apesar dos seus tiros nos pés, Cameron foi das poucas pessoas que tentou puxar o seu partido para o centro, tendo ficado com um legado manchado por causa do Brexit (o “*Stay*” esteve a 2 p.p de ganhar o referendo). Apesar da sua escolha para o cargo parecer ter mais a haver com a direção ideológica do partido do que conhecimento de política externa, é sem dúvida melhor do que qualquer outro Conservador disponível para o cargo. Eu conto que seja uma boa aposta.
-
-**

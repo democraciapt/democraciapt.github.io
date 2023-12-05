@@ -14,7 +14,7 @@ header:
   teaser: 
   caption:
 ---
-**
+
 # O país à beira de um ataque de nervos e os portugueses preocupados com a biologia da Miss 2023
 
 Marina Machete é a primeira mulher transgénero a vencer o concurso Miss Portugal. A jovem de 28 anos foi, no passado dia 5 de outubro, coroada Miss Portugal e vai representar o país no concurso Miss Universo 2023, que se irá realizar em novembro. Marina não só foi a primeira mulher transgénero a participar, como também foi a primeira a vencer. No entanto, tais conquistas são irrelevantes para a maioria dos portugueses, que consideram um desrespeito o facto de a vencedora de um concurso de beleza feminina não ter nascido naturalmente mulher. É evidente que se fosse uma mulher cisgénero não era necessário falar nem discutir sobre o assunto, mas como não é o caso, o caos instalou-se rapidamente pelo país e muitos garantem que o mundo como o conhecemos está a chegar ao fim e com ele todas as noções de liberdade. 
@@ -39,4 +39,3 @@ No fundo, Miguel Sousa Tavares não está interessado no concurso em si, como a 
 
 Os concursos de beleza, como a Miss Portugal e a Miss Universo, escolhem uma mulher que consegue decorar um discurso eloquente sobre o porquê de protegermos o meio ambiente e os pobres dos animais, que sabe sorrir no momento certo e que tem as medidas corporais proporcionais entre si, assim como, uma altura superior a 1,60m. Desta forma, Marina Machete preenche todos os requisitos uma vez que um cromossoma Y não compromete a sua capacidade de memória nem o seu sorriso estratégico.
 
-**

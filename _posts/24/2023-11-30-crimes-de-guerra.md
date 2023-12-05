@@ -3,7 +3,7 @@
 title: "Crimes de Guerra? Qual Guerra?"
 author: cristian-bancu
 date: 2023-11-30T00:00:00-00:00
-excerpt:
+excerpt: "Do exercício legítimo de Israel em 'se defender dos ataques terroristas do Hamas', temos observado várias fontes noticiosas e individuais acusando Israel de cometer crimes de guerra"
 
 # Categorias
 categories:
@@ -16,6 +16,7 @@ tags:
   - Israel 🇮🇱
   - Palestina 🇵🇸
   - Guerra
+  - Conflito Israelo-Palestiniano
 
 
 # Design

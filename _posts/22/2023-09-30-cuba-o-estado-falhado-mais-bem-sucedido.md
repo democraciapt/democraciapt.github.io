@@ -1,7 +1,7 @@
 ---
 # Cabeça
 title: "Cuba, o Estado falhado mais bem sucedido"
-author: xavier-ramos
+author: xavi-ramos
 date: 2023-09-30T00:00:00-00:00
 excerpt:
 

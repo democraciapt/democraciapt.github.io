@@ -13,7 +13,7 @@ header:
   teaser: 
   caption:
 ---
-**
+
 # Men I Trust – Untourable Album (2021)
 
 Para mim, novembro sempre foi o mês infeliz em que se espera, ansiosamente, pela chegada do Natal. Começava-se logo a encher de cruzinhas os catálogos que chegavam às minhas pequenas mãos, na esperança de se ter naves LEGO do *Star Wars* ou mais umas figuras de ação do *Spider-Man*. Porém, lá no fundo das páginas, havia sempre a oculta secção dos jogos para as consolas onde a perdição era demasiada para uma criança com uma *Wii*. Eram tempos em que se passavam tardes inteiras a jogar *Mario Kart* e o FIFA da altura, ao mesmo tempo que se sonhava com a surpresa e o milagre que acontecia naquela noite especial.
@@ -52,4 +52,3 @@ Bom, confesso que a filosofia por trás deste projeto da banda canadiana possa t
 
 A meu ver, o *Untourable Album* faz por ajudar nessas cicatrizes que se vão abrindo aquando de um olhar para trás no tempo.  Aliás, Fernando Pessoa também já o havia descrito de forma exímia: “*A criança que fui chora na estrada. / (…) Mas hoje, vendo que o que sou é nada, / Quero ir buscar quem fui onde ficou*”. Enfim, possivelmente, o cúmulo da vida adulta é esta tentativa ridícula de se viver o que foi vivido em criança. Portanto, mesmo sabendo que esse exercício é desaconselhado, acaba-se por se fazer de tudo para nos aproximarmos da felicidade ansiosa em fazer a carta ao Pai Natal de um miúdo, mesmo faltando mais de um mês.
 
-**

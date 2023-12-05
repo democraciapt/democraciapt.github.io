@@ -13,11 +13,10 @@ header:
   teaser: 
   caption:
 ---
-**
 
 # Wim Mertens: a cândida harmonia da melodia 
 
-"*Music is the poetry of the air*" -  Jean Paul Richter
+> "Music is the poetry of the air" -  **Jean Paul Richter**
 
 Oscilo as minhas janelas temporais desocupadas entre a leitura e a poesia musical que nos é oferecida pela mestria melódica de compositores como Wim Mertens.
 
@@ -48,5 +47,3 @@ A predileção musical de alguém com tamanha mocidade pode configurar um fator 
 A força anímica da poesia musical, que torna possível a sua resistência à indelével passagem do tempo, reside na capacidade que as composições têm de potenciar a imersão emocional, que os géneros musicais contemporâneos desprovidos de significado e de fito não têm o condão de suscitar. 
 
 Em jeito de comemoração das suas quatro décadas de carreira, assinaladas em 2020, agraciou-nos com concertos em quatro cidades portuguesas. Três anos volvidos, aos setenta anos, viaja até Lisboa, menina e moça, no presente mês de novembro. Com a sua concepção poética da música e sublime mistério subjacente a cada composição o recital que o trará aos palcos de Lisboa deixa ávido de curiosidade os apreciadores de música clássica e do cândido minimalismo que este autor protagoniza.
-
-**

@@ -16,7 +16,6 @@ header:
   teaser: 
   caption:
 ---
-**
 
 # A insustentável leveza da corrupção
 
@@ -69,5 +68,3 @@ O antídoto para uma governação irresponsável é a existência de uma oposiç
 Há no ar que respiramos um aroma a ventos de mudança. Portugal precisa de um líder carismático, reformista, não de alguém temperamental, populista, demagogo. Em defesa dos imoderados invocam-se virtudes como a firmeza do caráter e a audácia das convicções e olvida-se a lacuna ou irracionalidade programática que os seus projetos representam - axioma que se aplica aos protagonistas dos dois lados do espectro político. 
 
 Nos idos do cinquentenário da democracia portuguesa, urge que não cedamos à tentação de tornar o dia 10 de março numa luta titânica entre a justiça e a democracia. A 25 de abril de 1974 floresceu a democracia. Volvidos 50 anos, aguardo com expectativa o triunfo dos democratas sob aqueles que demonstram que pela democracia liberal não nutrem nem um pingo de apreço.
-
-**

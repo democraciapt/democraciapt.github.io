@@ -179,3 +179,27 @@ rui-lopo-diogo-goncalves:
   bio         : "Em colaboração com Diogo Beirôco Gonçalves"
   avatar      : /assets/images/bio-photo.jpg
 
+maria-clemente:
+  name        : "Maria Clemente"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+diogo-rodrigues:
+  name        : "Diogo Rodrigues"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+carlos-raposo:
+  name        : "Carlos Paiva Raposo"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+diogo-magalhaes:
+  name        : "Diogo Magalhães"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg
+
+ines-dias:
+  name        : "Inês Dias"
+  bio         : "Lorem ipsum. Texto temporário"
+  avatar      : /assets/images/bio-photo.jpg

@@ -15,7 +15,7 @@ header:
   teaser: 
   caption:
 ---
-**
+
 # Nuclear: solução alternativa para diversificar o mix energético europeu? 
 
 A União Europeia, através do Objetivo 55 (*Fit for 55*), tem vindo a estabelecer um conjunto de propostas destinadas a rever e atualizar a legislação da União e a criar iniciativas com o objetivo de assegurar que as políticas da UE estejam em consonância com os objetivos climáticos acordados pelo Conselho e pelo Parlamento Europeu.
@@ -33,16 +33,3 @@ Existem ainda desafios consideráveis para a adoção da energia nuclear, existi
 Outros países no mundo estão a acordar para a realidade da energia nuclear como forma de reduzir as suas emissões e diversificar o seu mix energético. Particularmente de relevo é o facto de dois grandes poluentes mundiais, a China e a Índia, estarem também a traçar um caminho propício à adoção em maior escala da energia nuclear. De acordo com um relatório da *China Nuclear Energy Association*, o objetivo atual do país é conseguir que 10% da eletricidade gerada em 2035 tenha como origem a energia nuclear, ou seja, cerca do dobro do valor que hoje em dia vigora; as autoridades já autorizaram a construção de pelo menos mais vinte e um reatores. No caso da Índia, o plano é ainda mais ambicioso, tendo o ministro da Energia Atómica anunciado no final do ano passado que o objetivo é triplicar o contributo do nuclear no mix energético do país. Também o advento de tecnologias inovadoras como os SMRs (*Small Modular Reactors*) tem vindo a reduzir as barreiras de entrada para países em todo o mundo que queiram iniciar ou expandir a sua produção de energia nuclear de uma forma mais barata, em menor dimensão e com ainda maior segurança e eficiência.  
 
 Em jeito de conclusão, considero a energia nuclear como uma alternativa a ter em conta para os Estados-membros que pretendam reduzir as suas emissões enquanto caminham para a implementação de um *mix* maioritariamente assente em energias renováveis, substituindo assim os combustíveis fósseis altamente poluentes pelo nuclear; neste processo, saem beneficiadas ao aumentar a sua segurança energética e ao estabilizar os preços pagos pelas famílias e empresas.
-
-**
-
-
-
-
-
-
-
-
-
-
-
